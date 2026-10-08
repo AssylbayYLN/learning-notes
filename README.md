@@ -1,2 +1,2 @@
-   # Learning notes
+ # Learning notes
    Notes on Python, AI and QA.
